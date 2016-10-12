@@ -1,0 +1,4 @@
+# Test version of twitterkeys.py
+# Isn't commited - see top of .gitignore
+test1 = "Hello, "
+test2 = "World!"
