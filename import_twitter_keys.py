@@ -3,7 +3,7 @@ print_values = True
 try:
   import twitter_keys as keys
 except:
-  raise ValueError("Error importing twitterkeys.py. Does the file exist?")
+  raise ValueError("Error importing twitter_keys.py. Does the file exist?")
 
 values_present = True
 try:
